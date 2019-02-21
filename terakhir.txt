@@ -1,1 +1,0 @@
-file edit bagian mengetik(), seng gak diketik object e ilang
